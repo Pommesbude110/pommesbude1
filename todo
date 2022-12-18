@@ -2,10 +2,10 @@
 [ ] Video Portfolio
 [ ] Discord
 [X] Twitch
-[ ] Instagram
-[ ] Github
-[ ] Spotify
-[ ] Twitter
+[X] Instagram
+[X] Github
+[X] Spotify
+[X] Twitter
 [ ] URL Shorter
 [ ] Login for privat
 [ ] FilySay Tool
@@ -13,5 +13,6 @@
 [ ] Own Password-Generator (Design)
 [ ] Regex-Generator
 [ ] Own API
-[ ] Status Seite
+[X] Status Seite
 [ ] Cybermap (threatmap.checkpoint.com)
+[ ] Spotify Widget
