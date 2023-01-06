@@ -7,7 +7,7 @@
 [X] Spotify
 [X] Twitter
 [ ] URL Shorter
-[ ] Login for privat
+[ ] Login for privat + 2FA 
 [ ] FilySay Tool
 [X] Image Resizer
 [ ] Own Password-Generator (Design)
@@ -16,3 +16,4 @@
 [X] Status Seite
 [ ] Cybermap (threatmap.checkpoint.com)
 [ ] Spotify Widget
+[ ] 1Password integration
